@@ -1,10 +1,10 @@
 
 
 function App() {
-
+  const username = "chai aur code"
 
   return (
-    <h1>Chai aur React with vite | Hitesh Wadhwani </h1>
+    <h1>Chai aur React with vite | Hitesh Wadhwani {username}</h1>
   )
 }
 
